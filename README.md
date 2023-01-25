@@ -4,7 +4,7 @@ colab : https://colab.research.google.com/drive/1clZynyZhLYh-bZQUcC503y7EkmMRX3I
 
 Step to using this model<br/>
 1 import mockdata.csv in to project<br/>
-2 reccord your sound
+2 reccord your sound <br/>
 ![image](https://user-images.githubusercontent.com/70998355/214566269-bfd6ebaa-31a5-4ea2-9a06-6818b556ac01.png)
 
 
